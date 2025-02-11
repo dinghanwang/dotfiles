@@ -169,4 +169,4 @@ export PATH="/opt/conda/bin:$PATH"
 fi
 fi
 unset __conda_setup
-# <<< conda initialize <<<alias lla="ls -la"
+# <<< conda initialize <<<
